@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>P2pro Technologies- Home Page</title>
-<link href="images/P2pro-logo.jpg" rel="icon">
+<title>Arcadmy- Home Page</title>
+<link href="images/Arcadmylogo.jpeg.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to P2pro Technology Solution Pvt Ltd. Hyderabad, Telangana </h1>
-<h1 align="center"> P2pro Technology Solution Pvt Ltd- Very Good Training center for DevOps with AWS, Digital Marketing & Cyber Security's as well in Madhapur and we also providr Job Assitance Job Support....</h1>
+<h1 align="center">Welcome to Arcadmy Pvt Ltd. Hyderabad, Telangana </h1>
+<h1 align="center"> Arcadmy Pvt Ltd- Very Good Training center for DevOps with AWS, Digital Marketing & Cyber Security's as well in Madhapur and we also providr Job Assitance Job Support....</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,25 +31,25 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/P2pro-logo.jpg" alt="" width="100">
+		<img src="images/Arcadmylogo.jpeg.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		P2pro Technology Solution Pvt Ltd,
+		Arcadmy Pvt Ltd,
 		Doctors Pride Apartment, Ground floor, Shriram colony, Madhapur,
 		Hyderabad, Telangana 500081,
 		+91-9491442131
 		+91-9935398899
-		p2protech@gmail.com
+		contact@arcadmy.com
 		<br>
-		<a href="p2protech@gmail.com">Mail to P2pro Technology Solution Pvt Ltd</a>
+		<a href="contact@arcadmy.com">Mail to Arcadmy Pvt Ltd</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>P2pro Technology Solution Pvt Ltd - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://p2protech.com/">P2pro Technology Solution Pvt Ltd</a> </small></p>
+<p align=center>Arcadmy Pvt Ltd - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2021 by <a href="http://arcadmy.com/">Arcadmy Pvt Ltd</a> </small></p>
 
 </body>
 </html>
